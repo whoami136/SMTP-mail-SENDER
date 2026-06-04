@@ -28,3 +28,12 @@ git clone https://github.com/whoami136/SMTP-mail-SENDER.git
 cd SMTP-mail-SENDER
 python3 mailer.py
 ```
+## Requirements
+
+- Python 3
+
+Check installation:
+
+```bash
+python3 --version
+```
