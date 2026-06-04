@@ -21,3 +21,10 @@ Security lab simulations for email systems
 ⚠️ Note:
 
 This tool should be used only in legal and ethical environments such as personal testing or educational labs.
+## Installation
+
+```bash
+git clone https://github.com/whoami136/SMTP-mail-SENDER.git
+cd SMTP-mail-SENDER
+python3 mailer.py
+```
